@@ -1,0 +1,32 @@
+/* ---------- Page ---------- */
+body {
+  font-family: Arial, sans-serif;
+  max-width: 400px;
+  margin: 40px auto;
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  padding: 8px 0;
+  border-bottom: 1px solid #ccc;
+}
+
+
+.done {
+  text-decoration: line-through;
+  color: gray;
+}
